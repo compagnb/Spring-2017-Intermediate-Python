@@ -35,6 +35,11 @@ __March 18: Classes & Objects__
 - Vocabulary
 - Keywords
 
+__March 18 Advanced : Weather Underground API__
+- Connecting To APIs
+- Scraping Data For Use
+- Building A Module
+
 __March 25: Classes In Graphics & Turtle Graphics__
 - Objects & Classes In Pictures
 - Turtle Module
@@ -46,6 +51,10 @@ __March 25: Classes In Graphics & Turtle Graphics__
 - Vocabulary
 - Keywords
 
+__March 25 Advanced : Postgres__
+- Creating & Organizing Data Structures
+- Connecting To Postgress
+- Pushing & Pulling Data
 
 __April 1: Classes In Games Using Turtle Graphics__
 - Controlling The Screen
@@ -57,6 +66,8 @@ __April 1: Classes In Games Using Turtle Graphics__
 - Exercises
 - Vocabulary
 - Keywords
+
+
 
 
 *Topics may change depending on the needs of the class. 
