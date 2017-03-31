@@ -21,14 +21,9 @@ __March 11: Review__
 - Return Values
 - Variables & Scope
 - Importing Modules
-- Exercises:
-  - Can Recycle
-  - Age Input
-  - Weight On The Moon
-- Vocabulary:
-  - 
-- Keywords:
-  - 
+- Exercises
+- Vocabulary
+- Keywords
 
 __March 18: Classes & Objects__
 - Children & Parents 
@@ -36,16 +31,9 @@ __March 18: Classes & Objects__
 - Class Characteristics As Functions
 - Inherited Functions
 - Initializing An Object
-- Exercises:
-  - Giraffe Shuffle
-  - Turtle Pitchfork
-- Vocabulary:
-  - Function
-  - Parameter
-  - Scope
-- Keywords:
-  - def
-  - return
+- Exercises
+- Vocabulary
+- Keywords
 
 __March 25: Classes In Graphics & Turtle Graphics__
 - Objects & Classes In Pictures
@@ -54,22 +42,10 @@ __March 25: Classes In Graphics & Turtle Graphics__
 - Color
 - Drawing With Loops
 - Adding Flexibility With Functions
-- Exercises:
-  - Box Without Corners
-  - Triangle
-  - Octogon
-  - Filled Octogon
-  - Star Function
-  - Design A Maze
-  - Generative Art
-- Vocabulary:
-  - Coordinates
-  - Degrees
-  - Hexadecimal
-  - Operator
-  - Pixel
-- Keywords:
-  - 
+- Exercises
+- Vocabulary
+- Keywords
+
 
 __April 1: Classes In Games Using Turtle Graphics__
 - Controlling The Screen
@@ -78,16 +54,9 @@ __April 1: Classes In Games Using Turtle Graphics__
 - Boundary/Collision Detection
 - Keyboard Command Binding
 - Sound Effects & Images
-- Exercises:
-  - Space Game
-  - Second Player
-  - Multiple Levels
-- Vocabulary:
-  - Animation
-  - Collision
-  - Event
-- Keywords:
-  - 
+- Exercises
+- Vocabulary
+- Keywords
 
 
 *Topics may change depending on the needs of the class. 
