@@ -16,7 +16,7 @@ In this course, students use their prior knowledge of Python programming to join
 7. Pong/PitFall*
 
 ## Course Breakdown:
-__March 11: Review__
+### March 11: Review
 - Parts of Functions 
 - Return Values
 - Variables & Scope
@@ -25,7 +25,7 @@ __March 11: Review__
 - Vocabulary
 - Keywords
 
-__March 18: Classes & Objects__
+### March 18: Classes & Objects
 - Children & Parents 
 - Adding Objects
 - Class Characteristics As Functions
@@ -35,12 +35,12 @@ __March 18: Classes & Objects__
 - Vocabulary
 - Keywords
 
-__March 18 Advanced : Weather Underground API__
+### March 18 Advanced : Weather Underground API
 - Connecting To APIs
 - Scraping Data For Use
 - Building A Module
 
-__March 25: Classes In Graphics & Turtle Graphics__
+### March 25: Classes In Graphics & Turtle Graphics
 - Objects & Classes In Pictures
 - Turtle Module
 - Drawing Basic Shapes
@@ -51,12 +51,12 @@ __March 25: Classes In Graphics & Turtle Graphics__
 - Vocabulary
 - Keywords
 
-__March 25 Advanced : Postgres__
+### March 25 Advanced : Postgres
 - Creating & Organizing Data Structures
 - Connecting To Postgress
 - Pushing & Pulling Data
 
-__April 1: Classes In Games Using Turtle Graphics__
+### April 1: Classes In Games Using Turtle Graphics
 - Controlling The Screen
 - Creating The Player & Goal(s)
 - Animation
